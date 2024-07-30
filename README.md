@@ -8,4 +8,4 @@ and therefore, finding the best combination of these to improve the robustness o
 Yet to be updated
 
 ## Install
-No need for extra model isntallation, everything is contained inside the first cell of each notebook. 
+No need for extra module installation, everything is contained inside the first cell of each notebook. 
