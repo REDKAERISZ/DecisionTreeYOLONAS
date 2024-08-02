@@ -1,0 +1,5 @@
+training_hyperparams.cosine_final_lr_ratio,training_hyperparams.batch_accumulate,training_hyperparams.initial_lr.backbone,training_hyperparams.initial_lr.default,training_hyperparams.max_epochs,dataset_params.train_dataloader_params.batch_size,dataset_params.train_dataloader_params.num_workers,dataset_params.valid_dataloader_params.batch_size,dataset_params.valid_dataloader_params.num_workers,additional_log_items.initial_LR.backbone,additional_log_items.initial_LR.default,training_hyperparams.lr_decay_factor,training_hyperparams.optimizer_Adam,training_hyperparams.optimizer_AdamW,training_hyperparams.lr_mode_CosineLRScheduler,training_hyperparams.lr_mode_ExponentialLRScheduler
+0.01,2,0.01,0.01,85,16,10,16,10,0.01,0.01,0.9,1,0,0,1
+0.1,1,0.1,0.1,60,4,3,4,3,0.1,0.1,0,1,0,1,0
+0.01,1,0.1,0.1,55,8,5,8,5,0.1,0.1,0,0,1,1,0
+0.1,2,0.01,0.01,100,4,2,4,2,0.01,0.01,0.9,0,1,0,1
